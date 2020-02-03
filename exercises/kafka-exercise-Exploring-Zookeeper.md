@@ -9,7 +9,6 @@ Zookeeper is used as a _runtime configuration database_ by Kafka brokers given t
 
 Duration: **30 mins**
 
-**TIP** Use [bit.ly/kafka-exercise-admin-02](https://bit.ly/kafka-exercise-admin-02) to access this exercise.
 
 ## Procedure
 0. Before you can proceed you must download the jline jar file in the repo and put it in the lib directory of your kafka installation.

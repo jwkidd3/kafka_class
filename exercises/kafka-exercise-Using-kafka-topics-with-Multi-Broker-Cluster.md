@@ -4,8 +4,6 @@ In this exercise you will use **kafka-topics** shell script to manage a topic on
 
 Duration: **30 mins**
 
-**TIP** Use [bit.ly/kafka-exercise-admin-04](https://bit.ly/kafka-exercise-admin-04) to access this exercise.
-
 ## Procedure
 
 1. Configure a 3-broker Kafka cluster

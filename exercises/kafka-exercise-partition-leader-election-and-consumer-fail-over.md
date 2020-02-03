@@ -4,7 +4,6 @@ In this exercise you will experiment with **partition leader election** and **co
 
 Duration: **30 mins**
 
-**TIP** Use [bit.ly/kafka-exercise-admin-05](https://bit.ly/kafka-exercise-admin-05) to access this exercise.
 
 ## Procedure
 
