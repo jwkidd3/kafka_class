@@ -1,6 +1,6 @@
 # Exercises for Apache Kafka™ and Kafka Streams Workshops
 
-This repository contains the exercises for [Apache Kafka™ and Kafka Streams Workshops](../README.md).
+This repository contains the exercises for [Apache Kafka™ and Kafka Streams Workshops]
 
 ## Topic 1: Apache Kafka™ for Administrators and Operators
 
