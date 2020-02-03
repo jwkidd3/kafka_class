@@ -4,8 +4,6 @@ In this exercise you will configure a Kafka cluster with 3 brokers.
 
 Duration: **30 mins**
 
-**TIP** Use [bit.ly/kafka-exercise-admin-03](https://bit.ly/kafka-exercise-admin-03) to access this exercise.
-
 ## Procedure
 
 1. Review **config/zookeeper.properties** default configuration file of Zookeeper

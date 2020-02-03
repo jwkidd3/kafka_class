@@ -12,7 +12,7 @@ Duration: **30 mins**
 **TIP** Use [bit.ly/kafka-exercise-admin-02](https://bit.ly/kafka-exercise-admin-02) to access this exercise.
 
 ## Procedure
-
+0. Before you can proceed you must download the jline jar file in the repo and put it in the lib directory of your kafka installation.
 1. Use **zookeeper-shell** to connect to the Zookeeper instance
     * **./bin/zookeeper-shell.sh :2181**
 2. Use **help** to learn about available commands
