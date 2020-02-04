@@ -3,6 +3,7 @@
 ## Procedure
 
 1. Read the javadoc of [KafkaProducer](http://kafka.apache.org/24/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html) to know how to use the Producer API (to send messages to Kafka)
+Also read: [API Documentation](http://kafka.apache.org/documentation/#api)
 2. Create a new Scala/sbt project in IntelliJ IDEA
     1. Leave the defaults for the versions of sbt and Scala
     2. They usually are the latest versions
