@@ -18,3 +18,5 @@ At this point you should have a topic with replication factor of 2, one producer
 3. Shut down the partition leader
 4. Observe what happens with the clients and whether they can communicate with the cluster and with each other
 5. Use kafka-topics to check out the leader
+
+** kafkacat usage: kafkacat -b localhost:9092 -C -G cg1 t1
