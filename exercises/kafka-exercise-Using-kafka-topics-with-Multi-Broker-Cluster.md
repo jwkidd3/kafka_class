@@ -17,3 +17,5 @@ Duration: **30 mins**
   * Use **--describe** command-line option
   * `./bin/kafka-topics.sh --bootstrap-server localhost:9092 --describe --topic t1`
   * Focus on Leader, Replicas, Isr
+
+** kafkacat usage: kafkacat -b localhost:9092 -C -G cg1 t1
