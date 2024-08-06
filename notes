@@ -1,2 +1,7 @@
+bin/zookeeper-server-start.sh config/zookeeper.properties &
+bin/kafka-server-start.sh config/server.1.properties &
+bin/kafka-server-start.sh config/server.2.properties &
+bin/kafka-server-start.sh config/server.3.properties &
+
 kafka-producer-perf-test.sh --topic test --num-records 50 --throughput 10 --producer-props bootstrap.servers=localhost:9092 key.serializer=org.apache.kafka.common.serialization.StringSerializer value.serializer=org.apache.kafka.common.serialization.StringSerializer --record-size 1
 https://github.com/dpkp/kafka-python
